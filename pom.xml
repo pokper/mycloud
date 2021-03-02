@@ -36,6 +36,9 @@
       <module>seata-order-service2001</module>
     <module>seata-storage-service2002</module>
     <module>seata-account-service2003</module>
+    <module>mycloud-order-service5001</module>
+    <module>mycloud-storage-service5002</module>
+    <module>mycloud-account-service5003</module>
   </modules>
   <packaging>pom</packaging>
 
